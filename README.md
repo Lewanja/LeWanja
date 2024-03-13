@@ -1,12 +1,14 @@
 ### Hi there 👋
 My name is Leah Ndirangu :blush:
 
-I am a freelance Python Developer with experience in Django and Flask Frameworks.
+I am a freelance Python :snake: Developer with experience in Django and Flask Frameworks.
+Challenge me on SQL  :smirk:
 
-I am open to contributing to open-source projects and contributing on exciting projects.
+:construction_worker: I am open to contributing to open-source projects and exciting :star2: projects.
 
-I aspire to become a data engineer soon. 
+I aspire to become a little more active here :wink: and become a data engineer :bar_chart: 
 
+Fun fact :smiley: I love maths, science :woman_scientist: , and adventure :trolleybus: . I love photography too :camera_flash:
 
 <!--
 **Lewanja/LeWanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
