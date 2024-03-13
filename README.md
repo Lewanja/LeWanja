@@ -7,12 +7,6 @@ I am open to contributing to open-source projects and contributing on exciting p
 
 I aspire to become a data engineer soon. 
 
-Reach me:
-![Linkedin](https://www.linkedin.com/in/leah-ndirangu/)
-[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-(https://github.com/lewanja)
-!(Twitter)(https://twitter.com/wanja_leahh)
-
 
 <!--
 **Lewanja/LeWanja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
