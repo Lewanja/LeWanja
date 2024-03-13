@@ -10,7 +10,7 @@ I aspire to become a data engineer soon.
 Reach me:
 ![Linkedin](https://www.linkedin.com/in/leah-ndirangu/)
 ![GitHub](https://github.com/lewanja)
-!(X)(https://twitter.com/wanja_leahh)
+!(Twitter)(https://twitter.com/wanja_leahh)
 
 
 <!--
