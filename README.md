@@ -1,9 +1,8 @@
 ### Hi there 👋
 My name is Leah Ndirangu :blush:
 
-I am a freelance Python :snake: Developer with experience in Django and Flask Frameworks.
-Challenge me on SQL  :smirk:
-
+I am a freelance Python :snake: Developer with experience in Django and Flask Frameworks. I have experience on SQL as well :smirk:
+ 
 :construction_worker: I am open to contributing to open-source projects and exciting :star2: projects.
 
 I aspire to become a little more active here :wink: and become a data engineer :bar_chart: 
